@@ -1,6 +1,6 @@
 // https://wiki.keyestudio.com/Ks0357_Keyestudio_8x16_LED_Matrix_Panel
 // NTP clock inspired by https://nicuflorica.blogspot.com/2022/10/ceas-ntp-pe-afisaj-cu-tm1637.html
-// original schetch by Nicu FLORICA (niq_ro)
+// original sketch by Nicu FLORICA (niq_ro)
 
 
 #include <NTPClient.h>
