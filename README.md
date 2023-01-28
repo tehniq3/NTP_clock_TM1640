@@ -12,3 +12,4 @@ history:
 // v.2 - 24-hour format: minute characters smaller than for hours
 // v.2.a - 24-hour format: if hours < 10 not show 0 but free space (not 09:34 but  9:34)
 
+![afisaj](https://wiki.keyestudio.com/images/5/59/KS0357-1.png)
