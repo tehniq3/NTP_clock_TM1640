@@ -7,9 +7,13 @@ based on:
 - https://learn.sparkfun.com/tutorials/serial-communication/serial-intro
 
 history:
+
 // v.1 - 12-hour format: added hardware switch for DST (Daylight Saving Time) as at https://nicuflorica.blogspot.com/2022/12/ceas-ntp-pe-afisaj-oled-de-096-128x64.html
+
 // v.1a - 12-hour format: changed 5 number
+
 // v.2 - 24-hour format: minute characters smaller than for hours
+
 // v.2.a - 24-hour format: if hours < 10 not show 0 but free space (not 09:34 but  9:34)
 
 ![afisaj](https://wiki.keyestudio.com/images/5/59/KS0357-1.png)
