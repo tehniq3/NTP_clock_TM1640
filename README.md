@@ -9,8 +9,10 @@ based on:
 articles:
 
 - https://nicuflorica.blogspot.com/2023/01/ceas-ntp-pe-afisaj-led-16x8-cu-tm1640.html
+![real](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgclwSbFn4X2emB1_GxjbP_j2-Eyw0yr3CsjLcpJWfEnYOptpxgf5LL2uywg-UIZ33le9I-aFniOYiInVrVKndiJ7Lb5bjyR-09E4mFQUnRoZyLuPP5y_Bck3NGQtaTqVVe2oBenx31buQIkLCi2y_DCvLXy0B4WFk4UyAUXGr7Rq_mgo7An_ebiDebEA/w200-h150/NTP_clock_TM1640_ora_2.jpg)
 
 - http://nicuflorica.blogspot.com/2023/01/ceas-ntp-pe-afisaj-led-16x8-cu-tm1640-2.html
+![real2](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibzZ1A1SEp2dxQV6kIjhqSxvkAQA3AB5ahtiAWR-M13FMoO_MNDiIFsOeE-i8N1wO67ihVEXvlpYqfSHXWceRX7VPql4HIqgVKAeQL1dscvOFObZ-BAL93GI1hozgaYFPPCvseEi8TvKwimss7aLptGP8w2xHYAzk9CPzIePnRw5xcs8HqaPjeVrMozw/w200-h150/NTP_clock2_TM1640_ora_5.jpg)
 
 ![schemtic](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN-gvWEqN1lp_iDNjUhm6MnRrZe4l89Oav4i7Cu5ZJqq5rB1qC1Z1zPcy89loWwRwEudhG3ScdiHWZwMCu64cpdDl4p8oTlJ2w_j1UsMlggDsTvEyFRVIewuhz1Ydk4u48ImQixa1dpOyFsRr3gCMkrnHXqEucWEcXsFDEfFaDaQlSxQJPZcY8Q4puRg/s800/NTP_clock_DST_TM1640_schematic.png)
 
